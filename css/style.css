@@ -1,7 +1,8 @@
 body {
   background-color: lightgray;
-  color: darkgray;
+  color: black;
   font-family: verdana;
+  max-size: 400px;
 }
 
 h1 {
