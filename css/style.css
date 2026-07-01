@@ -12,9 +12,7 @@ h1 {
 }
 
 .centtext {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
+    width: 500px; 
+    max-width: 90%;
+    text-align: left;
 }
