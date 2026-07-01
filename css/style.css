@@ -16,6 +16,10 @@ h1 {
   align-items: flex-start;
 }
 
+.spacer {
+  width: 300px;
+}
+
 .centtext {
     width: 500px; 
     max-width: 90%;
