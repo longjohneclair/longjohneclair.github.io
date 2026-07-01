@@ -22,3 +22,7 @@ h1 {
     margin-left: 300px;
     margin-bottom: 600px;
 }
+
+hr {
+  max-width: 300px;
+}
