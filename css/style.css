@@ -18,9 +18,10 @@ h1 {
 .centtext {
     width: 500px; 
     max-width: 90%;
-    text-align: left;
+    text-align: top;
     margin-left: 300px;
-    margin-bottom: 700px;
+    position: fixed;
+    top: 0;
 }
 
 hr {
