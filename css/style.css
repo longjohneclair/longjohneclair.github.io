@@ -10,3 +10,10 @@ h1 {
   font-weight: normal;
   color: green;
 }
+
+.centtext {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
