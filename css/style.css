@@ -1,5 +1,5 @@
 body {
-  background-color: #17110b;
+  background-color: darkred;
   color: white;
   font-size: 15.3px;
   font-family: Verdana;
@@ -13,7 +13,7 @@ body {
 h1 {
   font-size: 34px;
   font-weight: normal;
-  color: yellow;
+  color: red;
 }
 
 .centtext {
