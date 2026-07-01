@@ -5,6 +5,10 @@ body {
   max-width: 400px;
 }
 
+.about {
+  max-width: 300px;
+}
+
 h1 {
   font-size: 40px;
   font-weight: normal;
@@ -16,5 +20,5 @@ h1 {
     max-width: 90%;
     text-align: left;
     margin-left: 300px;
-    margin-top: 200px;
+    margin-bottom: 200px;
 }
