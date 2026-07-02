@@ -18,10 +18,8 @@ h1 {
 
 .centtext {
     width: 400px; 
-    text-align: top;
-    margin-left: 600px;
-    position: fixed;
-    margin-top: 40px;
+    display: flex;
+    justify-content: center;
     top: 0;
 }
 
